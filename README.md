@@ -16,6 +16,18 @@
     <img src="https://img.shields.io/badge/Architecture-Enterprise-6f42c1?style=for-the-badge" alt="Enterprise Ready">
   </p>
 
+  <!-- Badges Tech Stack Oficiais -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma ORM">
+    <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon DB">
+    <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk Auth">
+    <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  </p>
+
 </div>
 
 ---
@@ -23,6 +35,14 @@
 ## ⚡ Sobre a Gafisx Labs
 
 A **Gafisx Labs** é uma *Software House* dedicada a conceber, arquitetar e escalar soluções digitais de alta performance e ecossistemas integrados. Nosso foco é desenvolver a infraestrutura tecnológica que capacita a próxima geração de profissionais autônomos e negócios em mercados nichados.
+
+---
+
+## 🛡️ Padrão de Engenharia & Segurança Enterprise
+
+> **Nota de Arquitetura:** Para garantir a proteção rigorosa de nossa propriedade intelectual e regras de negócio críticas, este perfil adota uma arquitetura híbrida de visibilidade:
+> * **Front-End Público:** Disponibilizado para auditoria de UI/UX, padrão de código de interface e experiência do usuário.
+> * **Core & Backend Privado:** O motor de regras, fluxos transacionais, criptografia de dados e conexões sensíveis operam sob blindagem restrita (*Private Repositories*).
 
 ---
 
@@ -38,7 +58,7 @@ Nossas plataformas são construídas sobre fundações modernas, seguras e escal
 
 ## 🏛️ Ecossistema de Produtos
 
-* 🛡️ **TattooGo Marketplace :** Plataforma full-stack revolucionando a conexão, portfólios e agendamentos entre tatuadores, estúdios e clientes.
+* 🛡️ **TattooGo Marketplace :** Plataforma full-stack revolucionando a conexão, portfólios e agendamentos entre tatuadores, estúdios e clientes. *(Camada de interface pública / Core transacional em ambiente privado).*
 * ⚙️ **Gafisx Core:** Arquitetura base proprietária para desenvolvimento acelerado de novos produtos digitais.
 
 ---
@@ -56,5 +76,5 @@ Nossas plataformas são construídas sobre fundações modernas, seguras e escal
 <br/>
 
 <div align="center">
-  <sub>&copy; 2026 Gafisx Labs. Todos os direitos reservados.</sub>
+  <sub>&copy; 2026 Gafisx Labs. Todos os direitos reservados. Propriedade Intelectual Protegida.</sub>
 </div>
