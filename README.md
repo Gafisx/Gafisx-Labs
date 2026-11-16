@@ -64,6 +64,8 @@ Nossas plataformas são construídas sobre fundações modernas, seguras e escal
 * 🛡️ **TattooGo Marketplace :** Plataforma full-stack revolucionando a conexão, portfólios e agendamentos entre tatuadores, estúdios e clientes. *(Camada de interface pública / Core transacional em ambiente privado).*
 * ⚙️ **Gafisx Core:** Arquitetura base proprietária para desenvolvimento acelerado de novos produtos digitais.
 
+> **Status de Release (Q4/2026):** Ambientes públicos de homologação e novas builds de interface encontram-se em janela de manutenção programada para validação de infraestrutura e rollout de módulos.
+
 ---
 
 ## 🌐 Conecte-se Conosco
